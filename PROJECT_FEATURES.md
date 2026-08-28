@@ -96,3 +96,8 @@
 
 - Manager can purchase additional product stock.
 - Product quantity can be increased after a purchase.
+
+## T20 - View Product History for Manager
+
+- Manager can view their product history.
+- Manager can check completed sales and purchase activities.

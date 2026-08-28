@@ -76,3 +76,7 @@ Assigned to: Shoyeb
 T19 - Purchase Product Stock for Manager
 As a Manager, I want to purchase product stock, so that the available quantity of a product can be increased.
 Assigned to: Shoyeb
+
+T20 - View Product History for Manager
+As a Manager, I want to view my product history, so that I can check the sales and purchases I have completed.
+Assigned to: Shoyeb

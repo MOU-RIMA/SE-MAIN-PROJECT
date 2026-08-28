@@ -76,3 +76,7 @@
 ## T19 - Purchase Product Stock for Manager
 
 - Added task documentation for purchasing product stock.
+
+## T20 - View Product History for Manager
+
+- Added task documentation for viewing product history.
