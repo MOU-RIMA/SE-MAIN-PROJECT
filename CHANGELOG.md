@@ -51,3 +51,7 @@
 ## T13 - Filter Sales/Purchase Records for Admin
 
 - Added task documentation for filtering sales and purchase records.
+
+## T14 - Search Transactions for Admin
+
+- Added task documentation for searching transactions.

@@ -64,3 +64,8 @@
 
 - Admin can filter sales and purchase records.
 - Admin can view records based on the required transaction type.
+
+## T14 - Search Transactions for Admin
+
+- Admin can search transaction records.
+- Search helps the Admin quickly find a specific sales or purchase record.
