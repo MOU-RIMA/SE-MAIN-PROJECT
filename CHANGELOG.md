@@ -88,3 +88,7 @@
 
 - Manager can open the Sales and Billing screen.
 - Manager can access product selling operations from this screen.
+
+## T23 - Search Product for Sale by Manager
+
+- Added task documentation for searching products on the Sales screen.
