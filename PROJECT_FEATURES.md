@@ -23,3 +23,8 @@
 
 - Admin can view the list of registered Managers.
 - Manager information can be viewed from the Manager list.
+
+## T06 - Search Manager for Admin
+
+- Admin can search Managers from the Manager list.
+- Search helps the Admin quickly find a specific Manager.
