@@ -25,3 +25,7 @@ Assigned to: Ahnaf
 T07 - Delete Manager for Admin
 As an Admin, I want to delete a Manager, so that a Manager who should no longer use the system can be removed.
 Assigned to: Ahnaf
+
+T08 - Edit Manager Profile for Admin
+As an Admin, I want to edit a Manager profile, so that incorrect or changed Manager information can be updated.
+Assigned to: Mourima
