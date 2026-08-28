@@ -80,3 +80,7 @@
 ## T20 - View Product History for Manager
 
 - Added task documentation for viewing product history.
+
+## T21 - Search Order History for Manager
+
+- Added task documentation for searching order history.
