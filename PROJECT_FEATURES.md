@@ -44,3 +44,8 @@
 
 - Admin can view their profile information.
 - Admin can update their profile information.
+
+## T10 - View Manager History for Admin
+
+- Admin can view a Manager's history.
+- Admin can check the Manager's sales and purchase activities.
