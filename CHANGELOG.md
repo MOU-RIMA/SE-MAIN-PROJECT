@@ -22,3 +22,7 @@
 ## T06 - Search Manager for Admin
 
 - Added task documentation for searching Managers.
+
+## T07 - Delete Manager for Admin
+
+- Added task documentation for deleting a Manager.
