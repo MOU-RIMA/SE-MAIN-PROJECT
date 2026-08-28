@@ -130,3 +130,7 @@
 
 - Manager can apply a discount to a customer order.
 - The bill can be recalculated after applying the discount.
+## T28 - Complete Sale for Manager
+
+- Manager can complete a customer sale.
+- Sale information can be stored and product stock can be updated.

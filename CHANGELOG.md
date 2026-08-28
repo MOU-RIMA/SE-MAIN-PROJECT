@@ -105,3 +105,6 @@
 
 - Manager can apply a discount to a customer order.
 - The bill can be recalculated after applying the discount.
+## T28 - Complete Sale for Manager
+
+- Added task documentation for completing a sale.
