@@ -17,3 +17,7 @@ Assigned to: Ahnaf
 T05 - View Manager List for Admin
 As an Admin, I want to view the Manager list, so that I can see the Managers registered in the system.
 Assigned to: Ahnaf
+
+T06 - Search Manager for Admin
+As an Admin, I want to search Managers, so that I can quickly find a specific Manager from the Manager list.
+Assigned to: Ahnaf

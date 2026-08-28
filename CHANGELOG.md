@@ -18,3 +18,7 @@
 ## T05 - View Manager List for Admin
 
 - Added task documentation for viewing the Manager list.
+
+## T06 - Search Manager for Admin
+
+- Added task documentation for searching Managers.
