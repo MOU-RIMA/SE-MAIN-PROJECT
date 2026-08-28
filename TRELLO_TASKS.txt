@@ -103,3 +103,7 @@ Assigned to: Kaiyum
 T26 - Remove/Clear Cart for Manager
 As a Manager, I want to remove products or clear the cart, so that I can correct a customer order before selling.
 Assigned to: Kaiyum
+
+T27 - Apply Discount for Manager
+As a Manager, I want to apply a discount, so that the final customer bill is calculated correctly.
+Assigned to: Kaiyum
