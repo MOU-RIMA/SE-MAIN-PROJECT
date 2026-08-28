@@ -54,3 +54,8 @@
 
 - Admin can view account details.
 - Admin can check total sales, purchase cost, and profit.
+
+## T12 - View Transaction Details for Admin
+
+- Admin can view transaction details.
+- Admin can check individual sales and purchase information.

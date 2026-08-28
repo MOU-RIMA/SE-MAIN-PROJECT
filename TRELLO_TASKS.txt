@@ -40,3 +40,7 @@ Assigned to: Mourima
 T11 - View Account Details for Admin
 As an Admin, I want to view account details, so that I can check total sales, purchase cost, and profit.
 Assigned to: Mourima
+
+T12 - View Transaction Details for Admin
+As an Admin, I want to view transaction details, so that I can check individual sales and purchase information.
+Assigned to: Mourima
