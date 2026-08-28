@@ -1,3 +1,6 @@
 T01 - Login for Admin/Manager
 As an Admin or Manager, I want to log in using my User ID and password, so that I can access the system according to my role.
 Assigned to: Ahnaf
+T02 - Logout for Admin/Manager
+As an Admin or Manager, I want to log out from the system, so that I can safely end my current session.
+Assigned to: Ahnaf
