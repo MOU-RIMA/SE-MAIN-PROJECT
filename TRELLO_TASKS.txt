@@ -60,3 +60,7 @@ Assigned to: Shoyeb
 T16 - Add Product for Manager
 As a Manager, I want to add a new product, so that a new shop item can be stored in the system.
 Assigned to: Shoyeb
+
+T17 - Update Product for Manager
+As a Manager, I want to update an existing product, so that product information and stock details remain correct.
+Assigned to: Shoyeb
