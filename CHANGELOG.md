@@ -14,3 +14,7 @@
 ## T04 - Add Manager for Admin
 
 - Added task documentation for adding a new Manager.
+
+## T05 - View Manager List for Admin
+
+- Added task documentation for viewing the Manager list.
