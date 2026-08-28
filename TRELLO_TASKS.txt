@@ -37,3 +37,6 @@ Assigned to: Mourima
 T10 - View Manager History for Admin
 As an Admin, I want to view a Manager's history, so that I can check that Manager's sales and purchase activities.
 Assigned to: Mourima
+T11 - View Account Details for Admin
+As an Admin, I want to view account details, so that I can check total sales, purchase cost, and profit.
+Assigned to: Mourima

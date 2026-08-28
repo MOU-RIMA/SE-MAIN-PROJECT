@@ -49,3 +49,8 @@
 
 - Admin can view a Manager's history.
 - Admin can check the Manager's sales and purchase activities.
+
+## T11 - View Account Details for Admin
+
+- Admin can view account details.
+- Admin can check total sales, purchase cost, and profit.
