@@ -107,3 +107,6 @@ Assigned to: Kaiyum
 T27 - Apply Discount for Manager
 As a Manager, I want to apply a discount, so that the final customer bill is calculated correctly.
 Assigned to: Kaiyum
+T28 - Complete Sale for Manager
+As a Manager, I want to complete a sale, so that the transaction is saved and product stock is updated.
+Assigned to: Kaiyum
