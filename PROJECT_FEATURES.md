@@ -59,3 +59,8 @@
 
 - Admin can view transaction details.
 - Admin can check individual sales and purchase information.
+
+## T13 - Filter Sales/Purchase Records for Admin
+
+- Admin can filter sales and purchase records.
+- Admin can view records based on the required transaction type.

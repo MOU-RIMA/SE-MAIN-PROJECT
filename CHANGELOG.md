@@ -47,3 +47,7 @@
 ## T12 - View Transaction Details for Admin
 
 - Added task documentation for viewing transaction details.
+
+## T13 - Filter Sales/Purchase Records for Admin
+
+- Added task documentation for filtering sales and purchase records.
