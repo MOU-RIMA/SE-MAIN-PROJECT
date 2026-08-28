@@ -76,3 +76,8 @@
 
 - Manager can view the Manager dashboard.
 - Manager can access the main shop operations from the dashboard.
+
+## T16 - Add Product for Manager
+
+- Manager can add a new product.
+- New product information can be stored in the system.

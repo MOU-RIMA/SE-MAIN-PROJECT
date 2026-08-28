@@ -59,3 +59,7 @@
 ## T15 - View Dashboard for Manager
 
 - Added task documentation for the Manager dashboard.
+
+## T16 - Add Product for Manager
+
+- Added task documentation for adding a new product.

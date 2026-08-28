@@ -56,3 +56,7 @@ Assigned to: Mourima
 T15 - View Dashboard for Manager
 As a Manager, I want to view the Manager dashboard, so that I can access the main shop operations from one place.
 Assigned to: Shoyeb
+
+T16 - Add Product for Manager
+As a Manager, I want to add a new product, so that a new shop item can be stored in the system.
+Assigned to: Shoyeb
