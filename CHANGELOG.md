@@ -92,3 +92,6 @@
 ## T23 - Search Product for Sale by Manager
 
 - Added task documentation for searching products on the Sales screen.
+## T24 - Check Product Availability for Manager
+
+- Added task documentation for checking product availability.
