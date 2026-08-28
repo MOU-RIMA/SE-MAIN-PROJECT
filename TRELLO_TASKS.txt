@@ -9,3 +9,7 @@ Assigned to: Ahnaf
 T03 - View Dashboard for Admin
 As an Admin, I want to view the Admin dashboard, so that I can access the available administrative features from one place.
 Assigned to: Ahnaf
+
+T04 - Add Manager for Admin
+As an Admin, I want to add a new Manager, so that a new Manager can use the system.
+Assigned to: Ahnaf
