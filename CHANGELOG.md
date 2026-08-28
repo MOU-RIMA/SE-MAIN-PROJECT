@@ -35,3 +35,7 @@
 ## T09 - View/Update Profile for Admin
 
 - Added task documentation for viewing and updating the Admin profile.
+
+## T10 - View Manager History for Admin
+
+- Added task documentation for viewing Manager history.

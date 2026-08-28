@@ -33,3 +33,7 @@ Assigned to: Mourima
 T09 - View/Update Profile for Admin
 As an Admin, I want to view and update my profile, so that my personal and account information stays correct.
 Assigned to: Mourima
+
+T10 - View Manager History for Admin
+As an Admin, I want to view a Manager's history, so that I can check that Manager's sales and purchase activities.
+Assigned to: Mourima
