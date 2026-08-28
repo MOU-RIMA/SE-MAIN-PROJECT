@@ -68,3 +68,11 @@ Assigned to: Shoyeb
 T18 - Search Product for Manager
 As a Manager, I want to search products, so that I can quickly find a specific item from the product list.
 Assigned to: Shoyeb
+
+T19 - Purchase Product Stock for Manager
+As a Manager, I want to purchase product stock, so that the available quantity of a product can be increased.
+Assigned to: Shoyeb
+
+T19 - Purchase Product Stock for Manager
+As a Manager, I want to purchase product stock, so that the available quantity of a product can be increased.
+Assigned to: Shoyeb

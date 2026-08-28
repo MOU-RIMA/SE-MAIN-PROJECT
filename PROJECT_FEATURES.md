@@ -91,3 +91,8 @@
 
 - Manager can search products.
 - Search helps the Manager quickly find a specific product.
+
+## T19 - Purchase Product Stock for Manager
+
+- Manager can purchase additional product stock.
+- Product quantity can be increased after a purchase.

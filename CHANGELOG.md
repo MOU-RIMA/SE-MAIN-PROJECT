@@ -72,3 +72,7 @@
 ## T18 - Search Product for Manager
 
 - Added task documentation for searching products.
+
+## T19 - Purchase Product Stock for Manager
+
+- Added task documentation for purchasing product stock.
