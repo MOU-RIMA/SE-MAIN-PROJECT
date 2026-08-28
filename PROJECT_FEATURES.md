@@ -34,3 +34,8 @@
 
 - Admin can delete a Manager from the system.
 - Managers who should no longer use the system can be removed.
+
+## T08 - Edit Manager Profile for Admin
+
+- Admin can edit a Manager profile.
+- Manager information can be updated when required.

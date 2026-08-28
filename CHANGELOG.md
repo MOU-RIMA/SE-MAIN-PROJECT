@@ -27,3 +27,7 @@
 ## T07 - Delete Manager for Admin
 
 - Added task documentation for deleting a Manager.
+
+## T08 - Edit Manager Profile for Admin
+
+- Added task documentation for editing a Manager profile.
