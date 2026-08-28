@@ -3,7 +3,13 @@
 
 - Admin can log in using valid credentials.
 - Manager can log in using valid credentials.
+
 ## T02 - Logout for Admin/Manager
 
 - Admin can log out from the system.
 - Manager can log out from the system.
+
+## T03 - View Dashboard for Admin
+
+- Admin can view the Admin dashboard.
+- Admin can access administrative features from the dashboard.
