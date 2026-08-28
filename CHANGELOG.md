@@ -101,3 +101,7 @@
 ## T26 - Remove/Clear Cart for Manager
 
 - Added task documentation for removing and clearing cart items.
+## T27 - Apply Discount for Manager
+
+- Manager can apply a discount to a customer order.
+- The bill can be recalculated after applying the discount.

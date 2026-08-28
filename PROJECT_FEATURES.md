@@ -126,3 +126,7 @@
 
 - Manager can remove products from the cart.
 - Manager can clear the cart before completing a sale.
+## T27 - Apply Discount for Manager
+
+- Manager can apply a discount to a customer order.
+- The bill can be recalculated after applying the discount.
