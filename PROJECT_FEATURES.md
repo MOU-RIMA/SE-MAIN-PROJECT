@@ -18,3 +18,8 @@
 
 - Admin can add a new Manager.
 - New Manager information can be stored in the system.
+
+## T05 - View Manager List for Admin
+
+- Admin can view the list of registered Managers.
+- Manager information can be viewed from the Manager list.
