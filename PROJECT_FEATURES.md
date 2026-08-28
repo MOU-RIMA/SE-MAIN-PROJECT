@@ -81,3 +81,8 @@
 
 - Manager can add a new product.
 - New product information can be stored in the system.
+
+## T17 - Update Product for Manager
+
+- Manager can update an existing product.
+- Product information and stock details can be updated.

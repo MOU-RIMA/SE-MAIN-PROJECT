@@ -63,3 +63,7 @@
 ## T16 - Add Product for Manager
 
 - Added task documentation for adding a new product.
+
+## T17 - Update Product for Manager
+
+- Added task documentation for updating a product.
