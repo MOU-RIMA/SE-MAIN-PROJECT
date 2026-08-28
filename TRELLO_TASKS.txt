@@ -92,6 +92,10 @@ Assigned to: Kaiyum
 T23 - Search Product for Sale by Manager
 As a Manager, I want to search products on the Sales screen, so that I can quickly find the item a customer wants.
 Assigned to: Kaiyum
-## T24 - Check Product Availability for Manager
+T24 - Check Product Availability for Manager
+As a Manager, I want to check product availability, so that I do not sell more quantity than the available stock.
+Assigned to: Kaiyum
 
-- Added task documentation for checking product availability.
+T25 - Add Product to Cart for Manager
+As a Manager, I want to add products to the cart, so that I can prepare a customer's order.
+Assigned to: Kaiyum

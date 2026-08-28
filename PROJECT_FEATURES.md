@@ -118,3 +118,7 @@
 
 - Manager can check available product quantity.
 - The system helps prevent selling more than the available stock.
+## T25 - Add Product to Cart for Manager
+
+- Manager can add products to the cart.
+- Products in the cart can be used to prepare a customer order.

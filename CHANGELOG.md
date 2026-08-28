@@ -95,3 +95,6 @@
 ## T24 - Check Product Availability for Manager
 
 - Added task documentation for checking product availability.
+## T25 - Add Product to Cart for Manager
+
+- Added task documentation for adding products to the cart.
