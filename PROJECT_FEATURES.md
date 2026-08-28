@@ -28,3 +28,8 @@
 
 - Admin can search Managers from the Manager list.
 - Search helps the Admin quickly find a specific Manager.
+
+## T07 - Delete Manager for Admin
+
+- Admin can delete a Manager from the system.
+- Managers who should no longer use the system can be removed.
