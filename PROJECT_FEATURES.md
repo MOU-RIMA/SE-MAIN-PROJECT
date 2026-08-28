@@ -106,3 +106,7 @@
 
 - Manager can search order history.
 - Search helps the Manager find a particular sales or purchase record.
+## T22 - Open Sales/Billing for Manager
+
+- Manager can open the Sales and Billing screen.
+- Manager can access product selling operations from this screen.

@@ -84,3 +84,8 @@ Assigned to: Shoyeb
 T21 - Search Order History for Manager
 As a Manager, I want to search order history, so that I can quickly find a particular sale or purchase record.
 Assigned to: Shoyeb
+
+T22 - Open Sales/Billing for Manager
+As a Manager, I want to open the Sales and Billing screen, so that I can sell products to customers.
+Assigned to: Kaiyum
+

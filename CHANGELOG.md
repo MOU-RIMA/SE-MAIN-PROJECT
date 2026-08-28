@@ -84,3 +84,7 @@
 ## T21 - Search Order History for Manager
 
 - Added task documentation for searching order history.
+## T22 - Open Sales/Billing for Manager
+
+- Manager can open the Sales and Billing screen.
+- Manager can access product selling operations from this screen.
