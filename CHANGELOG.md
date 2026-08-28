@@ -39,3 +39,7 @@
 ## T10 - View Manager History for Admin
 
 - Added task documentation for viewing Manager history.
+
+## T11 - View Account Details for Admin
+
+- Added task documentation for viewing account details.
