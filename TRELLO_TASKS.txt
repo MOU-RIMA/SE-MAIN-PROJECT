@@ -44,3 +44,7 @@ Assigned to: Mourima
 T12 - View Transaction Details for Admin
 As an Admin, I want to view transaction details, so that I can check individual sales and purchase information.
 Assigned to: Mourima
+
+T13 - Filter Sales/Purchase Records for Admin
+As an Admin, I want to filter sales and purchase records, so that I can view the transaction type I need.
+Assigned to: Mourima
