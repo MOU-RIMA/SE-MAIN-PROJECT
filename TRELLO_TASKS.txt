@@ -52,3 +52,7 @@ Assigned to: Mourima
 T14 - Search Transactions for Admin
 As an Admin, I want to search transactions, so that I can quickly find a specific sales or purchase record.
 Assigned to: Mourima
+
+T15 - View Dashboard for Manager
+As a Manager, I want to view the Manager dashboard, so that I can access the main shop operations from one place.
+Assigned to: Shoyeb
