@@ -13,3 +13,8 @@
 
 - Admin can view the Admin dashboard.
 - Admin can access administrative features from the dashboard.
+
+## T04 - Add Manager for Admin
+
+- Admin can add a new Manager.
+- New Manager information can be stored in the system.
