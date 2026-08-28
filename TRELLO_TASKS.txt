@@ -29,3 +29,7 @@ Assigned to: Ahnaf
 T08 - Edit Manager Profile for Admin
 As an Admin, I want to edit a Manager profile, so that incorrect or changed Manager information can be updated.
 Assigned to: Mourima
+
+T09 - View/Update Profile for Admin
+As an Admin, I want to view and update my profile, so that my personal and account information stays correct.
+Assigned to: Mourima

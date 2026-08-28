@@ -39,3 +39,8 @@
 
 - Admin can edit a Manager profile.
 - Manager information can be updated when required.
+
+## T09 - View/Update Profile for Admin
+
+- Admin can view their profile information.
+- Admin can update their profile information.

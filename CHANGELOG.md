@@ -31,3 +31,7 @@
 ## T08 - Edit Manager Profile for Admin
 
 - Added task documentation for editing a Manager profile.
+
+## T09 - View/Update Profile for Admin
+
+- Added task documentation for viewing and updating the Admin profile.
