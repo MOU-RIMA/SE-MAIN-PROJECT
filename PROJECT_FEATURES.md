@@ -114,3 +114,7 @@
 
 - Manager can search products from the Sales screen.
 - Search helps the Manager quickly find a product for a customer.
+## T24 - Check Product Availability for Manager
+
+- Manager can check available product quantity.
+- The system helps prevent selling more than the available stock.
