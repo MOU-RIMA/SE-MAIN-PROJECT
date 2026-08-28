@@ -99,3 +99,7 @@ Assigned to: Kaiyum
 T25 - Add Product to Cart for Manager
 As a Manager, I want to add products to the cart, so that I can prepare a customer's order.
 Assigned to: Kaiyum
+
+T26 - Remove/Clear Cart for Manager
+As a Manager, I want to remove products or clear the cart, so that I can correct a customer order before selling.
+Assigned to: Kaiyum

@@ -122,3 +122,7 @@
 
 - Manager can add products to the cart.
 - Products in the cart can be used to prepare a customer order.
+## T26 - Remove/Clear Cart for Manager
+
+- Manager can remove products from the cart.
+- Manager can clear the cart before completing a sale.

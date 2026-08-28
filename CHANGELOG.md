@@ -98,3 +98,6 @@
 ## T25 - Add Product to Cart for Manager
 
 - Added task documentation for adding products to the cart.
+## T26 - Remove/Clear Cart for Manager
+
+- Added task documentation for removing and clearing cart items.
