@@ -55,3 +55,7 @@
 ## T14 - Search Transactions for Admin
 
 - Added task documentation for searching transactions.
+
+## T15 - View Dashboard for Manager
+
+- Added task documentation for the Manager dashboard.

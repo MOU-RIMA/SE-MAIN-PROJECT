@@ -1,3 +1,5 @@
+
+
 # Project Features
 
 ## T01 - Login for Admin/Manager
@@ -69,3 +71,8 @@
 
 - Admin can search transaction records.
 - Search helps the Admin quickly find a specific sales or purchase record.
+
+## T15 - View Dashboard for Manager
+
+- Manager can view the Manager dashboard.
+- Manager can access the main shop operations from the dashboard.
