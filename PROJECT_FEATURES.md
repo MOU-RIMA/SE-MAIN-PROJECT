@@ -86,3 +86,8 @@
 
 - Manager can update an existing product.
 - Product information and stock details can be updated.
+
+## T18 - Search Product for Manager
+
+- Manager can search products.
+- Search helps the Manager quickly find a specific product.

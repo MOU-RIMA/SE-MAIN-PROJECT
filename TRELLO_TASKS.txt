@@ -64,3 +64,7 @@ Assigned to: Shoyeb
 T17 - Update Product for Manager
 As a Manager, I want to update an existing product, so that product information and stock details remain correct.
 Assigned to: Shoyeb
+
+T18 - Search Product for Manager
+As a Manager, I want to search products, so that I can quickly find a specific item from the product list.
+Assigned to: Shoyeb

@@ -42,6 +42,7 @@
 
 ## T11 - View Account Details for Admin
 
+
 - Added task documentation for viewing account details.
 
 ## T12 - View Transaction Details for Admin
@@ -67,3 +68,7 @@
 ## T17 - Update Product for Manager
 
 - Added task documentation for updating a product.
+
+## T18 - Search Product for Manager
+
+- Added task documentation for searching products.
