@@ -101,3 +101,8 @@
 
 - Manager can view their product history.
 - Manager can check completed sales and purchase activities.
+
+## T21 - Search Order History for Manager
+
+- Manager can search order history.
+- Search helps the Manager find a particular sales or purchase record.

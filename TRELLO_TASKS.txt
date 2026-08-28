@@ -80,3 +80,7 @@ Assigned to: Shoyeb
 T20 - View Product History for Manager
 As a Manager, I want to view my product history, so that I can check the sales and purchases I have completed.
 Assigned to: Shoyeb
+
+T21 - Search Order History for Manager
+As a Manager, I want to search order history, so that I can quickly find a particular sale or purchase record.
+Assigned to: Shoyeb
