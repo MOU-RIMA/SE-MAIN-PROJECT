@@ -43,3 +43,7 @@
 ## T11 - View Account Details for Admin
 
 - Added task documentation for viewing account details.
+
+## T12 - View Transaction Details for Admin
+
+- Added task documentation for viewing transaction details.
