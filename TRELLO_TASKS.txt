@@ -1,0 +1,112 @@
+T01 - Login for Admin/Manager
+As an Admin or Manager, I want to log in using my User ID and password, so that I can access the system according to my role.
+Assigned to: Ahnaf
+
+T02 - Logout for Admin/Manager
+As an Admin or Manager, I want to log out from the system, so that I can safely end my current session.
+Assigned to: Ahnaf
+
+T03 - View Dashboard for Admin
+As an Admin, I want to view the Admin dashboard, so that I can access the available administrative features from one place.
+Assigned to: Ahnaf
+
+T04 - Add Manager for Admin
+As an Admin, I want to add a new Manager, so that a new Manager can use the system.
+Assigned to: Ahnaf
+
+T05 - View Manager List for Admin
+As an Admin, I want to view the Manager list, so that I can see the Managers registered in the system.
+Assigned to: Ahnaf
+
+T06 - Search Manager for Admin
+As an Admin, I want to search Managers, so that I can quickly find a specific Manager from the Manager list.
+Assigned to: Ahnaf
+
+T07 - Delete Manager for Admin
+As an Admin, I want to delete a Manager, so that a Manager who should no longer use the system can be removed.
+Assigned to: Ahnaf
+
+T08 - Edit Manager Profile for Admin
+As an Admin, I want to edit a Manager profile, so that incorrect or changed Manager information can be updated.
+Assigned to: Mourima
+
+T09 - View/Update Profile for Admin
+As an Admin, I want to view and update my profile, so that my personal and account information stays correct.
+Assigned to: Mourima
+
+T10 - View Manager History for Admin
+As an Admin, I want to view a Manager's history, so that I can check that Manager's sales and purchase activities.
+Assigned to: Mourima
+T11 - View Account Details for Admin
+As an Admin, I want to view account details, so that I can check total sales, purchase cost, and profit.
+Assigned to: Mourima
+
+T12 - View Transaction Details for Admin
+As an Admin, I want to view transaction details, so that I can check individual sales and purchase information.
+Assigned to: Mourima
+
+T13 - Filter Sales/Purchase Records for Admin
+As an Admin, I want to filter sales and purchase records, so that I can view the transaction type I need.
+Assigned to: Mourima
+
+T14 - Search Transactions for Admin
+As an Admin, I want to search transactions, so that I can quickly find a specific sales or purchase record.
+Assigned to: Mourima
+
+T15 - View Dashboard for Manager
+As a Manager, I want to view the Manager dashboard, so that I can access the main shop operations from one place.
+Assigned to: Shoyeb
+
+T16 - Add Product for Manager
+As a Manager, I want to add a new product, so that a new shop item can be stored in the system.
+Assigned to: Shoyeb
+
+T17 - Update Product for Manager
+As a Manager, I want to update an existing product, so that product information and stock details remain correct.
+Assigned to: Shoyeb
+
+T18 - Search Product for Manager
+As a Manager, I want to search products, so that I can quickly find a specific item from the product list.
+Assigned to: Shoyeb
+
+T19 - Purchase Product Stock for Manager
+As a Manager, I want to purchase product stock, so that the available quantity of a product can be increased.
+Assigned to: Shoyeb
+
+T19 - Purchase Product Stock for Manager
+As a Manager, I want to purchase product stock, so that the available quantity of a product can be increased.
+Assigned to: Shoyeb
+
+T20 - View Product History for Manager
+As a Manager, I want to view my product history, so that I can check the sales and purchases I have completed.
+Assigned to: Shoyeb
+
+T21 - Search Order History for Manager
+As a Manager, I want to search order history, so that I can quickly find a particular sale or purchase record.
+Assigned to: Shoyeb
+
+T22 - Open Sales/Billing for Manager
+As a Manager, I want to open the Sales and Billing screen, so that I can sell products to customers.
+Assigned to: Kaiyum
+
+T23 - Search Product for Sale by Manager
+As a Manager, I want to search products on the Sales screen, so that I can quickly find the item a customer wants.
+Assigned to: Kaiyum
+T24 - Check Product Availability for Manager
+As a Manager, I want to check product availability, so that I do not sell more quantity than the available stock.
+Assigned to: Kaiyum
+
+T25 - Add Product to Cart for Manager
+As a Manager, I want to add products to the cart, so that I can prepare a customer's order.
+Assigned to: Kaiyum
+
+T26 - Remove/Clear Cart for Manager
+As a Manager, I want to remove products or clear the cart, so that I can correct a customer order before selling.
+Assigned to: Kaiyum
+
+T27 - Apply Discount for Manager
+As a Manager, I want to apply a discount, so that the final customer bill is calculated correctly.
+Assigned to: Kaiyum
+T28 - Complete Sale for Manager
+As a Manager, I want to complete a sale, so that the transaction is saved and product stock is updated.
+Assigned to: Kaiyum
